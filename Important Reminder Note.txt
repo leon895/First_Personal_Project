@@ -1,0 +1,41 @@
+This project is very personal because of the differents functions that has in it, so for that, 
+i do not think that is going to execute correctly on others machine, however, if someone
+wants to take for some reason i do not mind.
+
+List of features:
+- Mark as read as many emails the user wants on gmail.
+
+- Goes to wikipedia through a webdriver and take us to the first paga on certain lists,
+i also wanted to implement something else but i was too tired.
+
+- Search for an item previously input by the user and print the value of the first item,
+afterwards is gonna ask to the user if it wants to see the item.
+
+- Search on google any country previously input by the user and return the weather
+of the specific country.
+
+- Play on music from an specific folder or play the entire folder.
+
+- Open the start windows an search for something previously input by the user.
+
+- Change the wallpaper of the computer, is not exactly like that because only get to the point
+in which the user needs to pick whatever picture wants.
+
+- Open an incognito tab from Google Chrome and search on Youtube whatever video
+input previously from the user.
+
+- There is a brush teeth reminder. As soon as is activated, takes the current time
+and waits one hour to remind the user to brush his teeth.
+
+- A voice tells the user the current date.
+
+- A voice tells the user the current time.
+
+Libraries used:
+- Selenium (Framework)
+- pyttsx3
+- os
+- pyautogui
+- time
+- playsound
+- datetime
